@@ -1,0 +1,28 @@
+name: "The Shepherd's Hook"
+favicon: null
+layout_spectrum: 0.22616919921711087
+typography_spectrum: 0.7621192447841167
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.19918889575637877
+  lightness: 0.9790690052323043
+  saturation: 0.5092142310459167
+  rhythmicContrast: 0.9037729878909886
+purpose: []
