@@ -1,7 +1,7 @@
 name: "The Shepherd's Hook"
 favicon: null
-layout_spectrum: 0.22616919921711087
-typography_spectrum: 0.7621192447841167
+layout_spectrum: 0.55085
+typography_spectrum: 0.80678
 title: Advanced Leadership Tools and Techniques based on science and experience
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#ffffff'
+    - '#034da2'
+    - '#85c879'
+    - '#5d89ba'
+    - '#b6deae'
   brandStrength: 0.19918889575637877
   lightness: 0.9790690052323043
   saturation: 0.5092142310459167
