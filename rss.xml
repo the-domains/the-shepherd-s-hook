@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Shepherd's Hook]]></title>
-        <description><![CDATA[The Shepherd's Hook]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Advanced Leadership Tools and Techniques based on science and experience]]></title>
+        <description><![CDATA[Advanced Leadership Tools and Techniques based on science and experience]]></description>
+        <link>http://www.aquazelle.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 01:56:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 19:04:01 GMT</lastBuildDate>
+        <atom:link href="http://www.aquazelle.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Find us on Facebook at https://www.facebook.com/aquazelle/</p>]]></description>
+            <link>http://www.aquazelle.com/5b7830f9-74b2-49a9-bb9b-90a0b8c5696b/index.html</link>
+            <guid isPermaLink="false">5b7830f9-74b2-49a9-bb9b-90a0b8c5696b</guid>
+            <pubDate>Fri, 15 Jan 2016 19:02:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Innovation requires creativity]]></title>
+            <description><![CDATA[<article><h1>Innovation requires creativity</h1><p>The act of a prankster? Sure. A future leader? Depends on how it was handled. How we respond to disruptive ideas matters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06a47ed3d0f6e27567d1dd402b9d88d245a75af7.jpg"></article>]]></description>
+            <link>http://www.aquazelle.com/innovation-requires-creativity/index.html</link>
+            <guid isPermaLink="false">9f8e8a84-a1e1-4569-9d8a-d7362d8a2aa8</guid>
+            <pubDate>Wed, 13 Jan 2016 03:14:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Leadership philosophy]]></title>
             <description><![CDATA[<article><h1>Leadership philosophy</h1><p>There are a variety of leadership styles out there. Some work well in many situations. Some only work well in certain situations. Like good technology, the best leadership is invisible. No one realizes it's there because it's working so well. They think they are doing it themselves, and they mostly are.</p></article>]]></description>
-            <link>undefinedleadership-philosophy/index.html</link>
+            <link>http://www.aquazelle.com/leadership-philosophy/index.html</link>
             <guid isPermaLink="false">a1911365-ab90-419b-a09b-c1c8d65b771f</guid>
             <pubDate>Sun, 20 Dec 2015 01:56:21 GMT</pubDate>
         </item>
