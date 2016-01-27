@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Truly interdisciplinary approaches can identify and resolve things that simple, or even multidisciplinary, teams might miss. This post is a summary of points brought out at a large university panel.'
-datePublished: '2016-01-26T20:50:51.081Z'
-dateModified: '2016-01-26T20:50:41.211Z'
+datePublished: '2016-01-27T19:16:59.746Z'
+dateModified: '2016-01-27T19:15:43.877Z'
 title: Interdisciplinary Teams
 author: []
+sourcePath: _posts/2016-01-26-interdisciplinary-teams.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-26-interdisciplinary-teams.md
-published: true
 url: interdisciplinary-teams/index.html
-_type: Article
+_type: WebPage
 
 ---
 There were several good leaders that made up the panel we were part of at a large university today. The panel topic was interdisciplinary teams, and especially how they are used in applied settings. A couple of good tips were passed on to the next generation. This is a summary of some of the highlights. They may be basic, but the basics are often what gets overlooked - like when the tech support person asks "is it plugged in?"  
