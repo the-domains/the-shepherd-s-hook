@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Truly interdisciplinary approaches can identify and resolve things that simple, or even multidisciplinary, teams might miss. This post is a summary of points brought out at a large university panel.'
-datePublished: '2016-02-01T19:34:21.049Z'
+datePublished: '2016-02-01T19:34:21.069Z'
 dateModified: '2016-02-01T19:34:16.387Z'
 title: Interdisciplinary Teams
 author: []
